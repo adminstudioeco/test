@@ -1,0 +1,1 @@
+git filter-branch -f --env-filter "echo \"$GIT_COMMITTER_NAME $GIT_COMMITTER_EMAIL, $GIT_AUTHOR_NAME $GIT_AUTHOR_EMAIL\"" --tag-name-filter cat -- --branches --tags
