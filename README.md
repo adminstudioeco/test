@@ -6,4 +6,4 @@ facciamo un altra prova
 evviva
 dasfdsf
 
-test da loca
+test da locale2
