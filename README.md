@@ -6,3 +6,4 @@ facciamo un altra prova
 evviva
 dasfdsf
 
+test da locale
